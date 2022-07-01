@@ -1,0 +1,12 @@
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.deps.json
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\bin\Debug\net6.0\ref\GloboTicket.TicketManagement.Persistence.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.Persistence.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.IntegrationTests.pdb

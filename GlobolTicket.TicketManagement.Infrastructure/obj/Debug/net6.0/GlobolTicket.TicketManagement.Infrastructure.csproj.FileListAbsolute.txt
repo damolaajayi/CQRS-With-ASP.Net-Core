@@ -1,0 +1,17 @@
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.deps.json
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\ref\GlobolTicket.TicketManagement.Infrastructure.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.csproj.CopyComplete
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\ref\GlobolTicket.TicketManagement.Infrastructure.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.Infrastructure\obj\Debug\net6.0\GlobolTicket.TicketManagement.Infrastructure.pdb

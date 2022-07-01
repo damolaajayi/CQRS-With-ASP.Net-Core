@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6a83cef-f35d-49e9-b2ad-b8354168fae9": {
+      "ProjectGuid": "f6a83cef-f35d-49e9-b2ad-b8354168fae9",
+      "DisplayName": "GlobolTicket.TicketManagement.Infrastructure",
+      "ColorIndex": 0
+    },
+    "7560e74d-86ea-4056-b9bb-719a186533b0": {
+      "ProjectGuid": "7560e74d-86ea-4056-b9bb-719a186533b0",
+      "DisplayName": "GloboTicket.TicketManagement.Api",
+      "ColorIndex": 1
+    },
+    "58389810-1d65-4791-8543-0dc456dcb5bf": {
+      "ProjectGuid": "58389810-1d65-4791-8543-0dc456dcb5bf",
+      "DisplayName": "GloboTicket.TicketManagement.Persistence",
+      "ColorIndex": 2
+    },
+    "5218b451-72a9-45fd-a0ee-f542c3db982b": {
+      "ProjectGuid": "5218b451-72a9-45fd-a0ee-f542c3db982b",
+      "DisplayName": "GloboTicket.TicketManagement.Application",
+      "ColorIndex": 3
+    },
+    "c25fd66b-bc40-48c2-bb10-ed8f38387f5c": {
+      "ProjectGuid": "c25fd66b-bc40-48c2-bb10-ed8f38387f5c",
+      "DisplayName": "GloboTicket.TicketManagement.Persistence.IntegrationTests",
+      "ColorIndex": 4
+    },
+    "cef9b2ed-9a5c-4c17-b46a-b975cd968e22": {
+      "ProjectGuid": "cef9b2ed-9a5c-4c17-b46a-b975cd968e22",
+      "DisplayName": "GloboTicket.TicketManagement.Application.UnitTests",
+      "ColorIndex": 5
+    },
+    "ae90fc05-40b3-405b-91a3-8b206f5d9729": {
+      "ProjectGuid": "ae90fc05-40b3-405b-91a3-8b206f5d9729",
+      "DisplayName": "GloboTicket.TicketManagement.API.IntegrationTests",
+      "ColorIndex": 6
+    },
+    "37fe28a4-a066-43ca-bed8-6b110b8d76e7": {
+      "ProjectGuid": "37fe28a4-a066-43ca-bed8-6b110b8d76e7",
+      "DisplayName": "GloboTicket.TicketManagement.Domain",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

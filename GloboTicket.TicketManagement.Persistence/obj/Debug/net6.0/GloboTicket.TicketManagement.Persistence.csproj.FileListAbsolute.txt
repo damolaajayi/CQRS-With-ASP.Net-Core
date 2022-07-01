@@ -1,0 +1,17 @@
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.deps.json
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\ref\GloboTicket.TicketManagement.Persistence.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.csproj.CopyComplete
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.Persistence.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.pdb

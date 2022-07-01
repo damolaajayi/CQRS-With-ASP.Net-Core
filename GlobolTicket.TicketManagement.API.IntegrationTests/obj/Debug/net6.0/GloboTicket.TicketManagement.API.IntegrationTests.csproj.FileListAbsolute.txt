@@ -1,0 +1,17 @@
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.deps.json
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\ref\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.CopyComplete
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GlobolTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.pdb

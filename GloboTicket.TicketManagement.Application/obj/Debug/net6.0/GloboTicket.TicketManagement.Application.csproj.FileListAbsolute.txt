@@ -1,0 +1,15 @@
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.deps.json
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\bin\Debug\net6.0\ref\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\GloboTickets\GloboTicket.TicketManagement.Application\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.pdb
